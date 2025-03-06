@@ -34,8 +34,9 @@ cargo run -- -I google.com
 curler <TARGET_ADDRESS>
 curler -I <TARGET_ADDRESS>
 
-# Example:
+### Example:
 curler google.com
+
 curler -I google.com
 
 ## Limitations 
