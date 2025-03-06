@@ -27,6 +27,7 @@ sudo cp target/release/curler /usr/local/bin/
 cargo run -- <TARGET_ADDRESS> 
 ### Example:
 cargo run -- google.com
+
 cargo run -- -I google.com
 
 ### If installed in environment
